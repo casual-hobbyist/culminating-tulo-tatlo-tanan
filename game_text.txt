@@ -1,0 +1,21 @@
+【Ｗｅｌｃｏｍｅ】
+Thanks for playing Tulo, Tatlo, Tanan! I hope you enjoy the three mini-games I prepared for you.
+- Abby
+【Ｍｉｎｉ－ｇａｍｅｓ】
+1. Aliens Invasion
+2. Snake in the Garden
+3. Algorithm Application
+Alien Invasion is a game where you control a ship that defends your home from Aliens. Beware, if any of the aliens bypass you, its game over!
+To exit the game, press 'q' on your keyboard
+Snake in the Garden is a simple game where you play as a snake that slithers through a garden in search of food.
+In this application, choose between using an algorithm or reading about an algorithm!
+【Ｇａｍｅ　Ｉｎｓｔｒｕｃｔｉｏｎｓ】
+Thanks for playing!
+
+Hey There! Let's get to sorting. 
+1. Use a Sorting Algorithm           2. Descriptions           3. Quit
+Algorithm/s: 
+1. Quick Sort           2. Insertion Sort           3. Merge
+Would you like to keep playing?
+1. Continue             2. Quit
+【Ｆａｒｅｗｅｌｌ！】
